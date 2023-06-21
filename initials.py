@@ -1,0 +1,5 @@
+print("SSSSS      W                w")
+print("SS          W              w")
+print("SSSSS        W     w      w")
+print("   SS         w  w   w  w")
+print("SSSSS          w       w")

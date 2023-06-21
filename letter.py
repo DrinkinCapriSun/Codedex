@@ -1,0 +1,5 @@
+print("20/06/2023")
+print("I'm feeling nothing")
+print("I want to improve my python")
+print("Just ride with your own pace")
+print("🤣")
